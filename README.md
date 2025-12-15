@@ -14,15 +14,15 @@ Desenvolvo aplicações mantendo uma boa interface, lógica e organização de c
 
 <br />
 <div align="center">
-<img height="180em" alt="Gustavo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GDFgustavo&show_icons=true&theme=midnight-purple&title_color=5352ed&bg_color=1e272e&border_color=5352ed&icon_color=00f6ff"/>
-<img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDFgustavo&layout=compact&theme=midnight-purple&title_color=5352ed&bg_color=1e272e&border_color=5352ed"/>
+<img height="180em" alt="Gustavo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GDFgustavo&show_icons=true&theme=transparent&title_color=5352ed&border_color=5352ed&icon_color=00f6ff"/>
+<img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDFgustavo&layout=compact&theme=transparent&title_color=5352ed&border_color=5352ed"/>
 </div>
 
 ## ⭐ Projetos em destaque
 <br />
 <div align="center">
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDFgustavo&repo=mvp-project-fipe-radar&theme=midnight-purple&title_color=5352ed&bg_color=1e272e&border_color=5352ed&icon_color=00f6ff)](https://github.com/GDFgustavo/mvp-project-fipe-radar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDFgustavo&repo=mvp-project-fipe-radar&theme=transparent&title_color=5352ed&border_color=5352ed&icon_color=00f6ff)](https://github.com/GDFgustavo/mvp-project-fipe-radar)
 
 </div>
 
