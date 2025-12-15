@@ -20,8 +20,11 @@ Desenvolvo aplicações mantendo uma boa interface, lógica e organização de c
 
 ## ⭐ Projetos em destaque
 <br />
-
+<div align="center">
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDFgustavo&repo=mvp-project-fipe-radar&theme=midnight-purple&title_color=5352ed&bg_color=1e272e&border_color=5352ed&icon_color=00f6ff)](https://github.com/GDFgustavo/mvp-project-fipe-radar)
+
+</div>
 
 ## 🚀 Tecnologias que eu uso no meu dia
 <br />
@@ -35,13 +38,12 @@ Desenvolvo aplicações mantendo uma boa interface, lógica e organização de c
 </p>
 
 ## 🌐 Conecte-se comigo
-
+<p align="center">
   <a href="https://www.linkedin.com/in/gustavoaguiar1644/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white"  alt="Personal Linkedin" />
   </a>
   <a href="https://www.instagram.com/gustavo_gdf/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white"  alt="Personal Instagram" />
   </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logoColor=white" alt="Personal Website" />
-  </a>
+</p>
+  
