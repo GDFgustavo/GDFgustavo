@@ -22,7 +22,7 @@ Desenvolvo aplicações mantendo uma boa interface, lógica e organização de c
 <br />
 <div align="center">
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDFgustavo&repo=mvp-project-fipe-radar&theme=transparent&title_color=5352ed&border_color=5352ed&icon_color=00f6ff)](https://github.com/GDFgustavo/mvp-project-fipe-radar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GDFgustavo&repo=mvp-project-fipe-radar&description_lines_count&theme=transparent&title_color=5352ed&border_color=5352ed&icon_color=00f6ff)](https://github.com/GDFgustavo/mvp-project-fipe-radar)
 
 </div>
 
